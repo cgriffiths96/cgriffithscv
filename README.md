@@ -1,5 +1,6 @@
 # About me
 *Data Analyst with experience in education, healthcare, and data quality management. Skilled in Power BI, SQL, and Python, with a strong background in analysing complex data to drive business performance. Currently enhancing technical expertise through a Level 6 Data Science apprenticeship at BPP University.*
+
 ---
 ## Work experience
 -	**Data Analyst – Diverse Academies Trust: May 2023 – Present**
@@ -20,7 +21,8 @@ Planned and delivered engaging lessons across Key Stages 3, 4, and 5, focusing o
   
 Managed account reconciliations and month-end reports, processing supplier payments and maintaining accurate records using Excel and Kerridge.
 - Admin – COVID Advice Team, Doncaster Royal Infirmary:  January 2021 – April 2021
-- Data and Clinic Clerk - Haemophilia; Leeds Teaching Hospitals: November 2016 - August 2017 
+- Data and Clinic Clerk - Haemophilia; Leeds Teaching Hospitals: November 2016 - August 2017
+
 ---
 ## Education
 - BPP University: May 2024 – Present
