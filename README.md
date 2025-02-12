@@ -35,7 +35,6 @@ Data Science BSc
   
 19 GCSEs with a B in English, Maths and Science and 3 A Levels 
 
-![Histogram](assets/histogram-example-2.png)
 ---
 ### Key skills
 - Teamwork: Collaborate effectively to meet deadlines while supporting colleagues.
