@@ -21,7 +21,7 @@ Planned and delivered engaging lessons across Key Stages 3, 4, and 5, focusing o
   
 Managed account reconciliations and month-end reports, processing supplier payments and maintaining accurate records using Excel and Kerridge.
 - Admin – COVID Advice Team, Doncaster Royal Infirmary:  January 2021 – April 2021
-- Data and Clinic Clerk - Haemophilia; Leeds Teaching Hospitals: November 2016 - August 2017
+- Data and Clinic Clerk - Haemophilia: Leeds Teaching Hospitals: November 2016 - August 2017
 
 ---
 ## Education
